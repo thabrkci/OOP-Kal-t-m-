@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\obj\Debug\net7.0\OOP(Kalıtım).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\obj\Debug\net7.0\OOP(Kalıtım).AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\obj\Debug\net7.0\OOP(Kalıtım).AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\obj\Debug\net7.0\OOP(Kalıtım).csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\bin\Debug\net7.0\OOP(Kalıtım).exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\bin\Debug\net7.0\OOP(Kalıtım).deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\bin\Debug\net7.0\OOP(Kalıtım).runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\bin\Debug\net7.0\OOP(Kalıtım).dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\bin\Debug\net7.0\OOP(Kalıtım).pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\obj\Debug\net7.0\OOP(Kalıtım).dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\obj\Debug\net7.0\refint\OOP(Kalıtım).dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\obj\Debug\net7.0\OOP(Kalıtım).pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\obj\Debug\net7.0\OOP(Kalıtım).genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\OOP(Kalıtım)\obj\Debug\net7.0\ref\OOP(Kalıtım).dll
